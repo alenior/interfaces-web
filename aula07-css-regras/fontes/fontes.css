@@ -1,0 +1,15 @@
+body {
+    background-color: black;
+}
+
+.fonte {
+    font-size: 4em;
+    /* Também temos outras medidas como px, in, rem % */
+    color: #ff00ff;
+    /*
+        esquemas de cores no css red, green, blue
+        #
+    */
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 400;
+}
