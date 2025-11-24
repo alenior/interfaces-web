@@ -1,0 +1,40 @@
+div {
+    width: 200px;
+    height: 200px;
+    border: 2px solid black;
+}
+
+.container {
+    display: flex;
+    width: 100vw;
+    background-color: black;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.vermelho {
+    background-color: red;
+}
+
+.roxo {
+    background-color: purple;
+}
+
+.verde {
+    background-color: green;
+}
+
+.amarelo {
+    background-color: yellow;
+}
+
+.laranja {
+    background-color: orange;
+}
+
+.azul {
+    background-color: blue;
+}
